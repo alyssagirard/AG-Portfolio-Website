@@ -2,7 +2,7 @@
   {
     "name": "PilotPal",
     "desc": "Java-based application for student pilots that provides tools to help track flight hours, plan flights (aircraft logging, calculations, weather tracking), and practice questions for check rides",
-    "image": "notystackandroid",
+    "image": "pilotpallogo",
     "category": "android",
     "links": {
       "view": "https://drive.google.com/drive/folders/1kqQEIc3lV5nWlkO-b-ZTQON64PtATKts?usp=sharing",
@@ -17,16 +17,6 @@
     "links": {
       "view": "https://drive.google.com/drive/folders/1XmhaBV0e2nItBzQteLRKASa1DxRl_CPg?usp=sharing",
       "code": "https://github.com/alyssagirard/SharkAttackTrack"
-    }
-  },
-  {
-    "name": "Indian Temples",
-    "desc": "It shows temples of different sectors of India. as user clicks it will redirect to wiki of that temple for info.",
-    "image": "templeweb",
-    "category": "basicweb",
-    "links": {
-      "view": "#",
-      "code": "#"
     }
   }
 ]
