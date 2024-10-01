@@ -1,5 +1,25 @@
 [
   {
+    "name": "PilotPal",
+    "desc": "Java-based application for student pilots that provides tools to help track flight hours, plan flights (aircraft logging, calculations, weather tracking), and practice questions for check rides",
+    "image": "pilotpallogo",
+    "category": "basicweb",
+    "links": {
+      "view": "https://drive.google.com/drive/folders/1kqQEIc3lV5nWlkO-b-ZTQON64PtATKts?usp=sharing",
+      "code": "https://github.com/alyssagirard/PilotApp"
+    }
+  },
+  {
+    "name": "BoeingCompetitionStocks",
+    "desc": "Data analysis of Boeing competitor Airbus stock and stock airlines that don't use many Boeing planes, after the controversy Boeing faced about its 737 MAX 8 aircrafts. Uses Python and YFinance library.",
+    "image": "boeingplane",
+    "category": "basicweb",
+    "links": {
+      "view": "https://drive.google.com/drive/folders/1Q1mVmokyTC4DishwARBRfP5d1shkzxEj?usp=sharing",
+      "code": "https://github.com/jigar-sable/notystack-android"
+    }
+  },
+  {
     "name": "Shark Attack Track",
     "desc": "Reads in data from a CSV file to analyze and visualize data about shark attacks, printing out graphs comparing age of attack, fatality of attack, activity during attack, etc. Uses Python, specifically Pandas and MatPlotLib libraries.",
     "image": "sharkattacktrack",
@@ -7,16 +27,6 @@
     "links": {
       "view": "https://drive.google.com/drive/folders/1XmhaBV0e2nItBzQteLRKASa1DxRl_CPg?usp=sharing",
       "code": "https://github.com/alyssagirard/SharkAttackTrack"
-    }
-  },
-  {
-    "name": "PilotPal",
-    "desc": "Java-based application for student pilots that provides tools to help track flight hours, plan flights (aircraft logging, calculations, weather tracking), and practice questions for check rides",
-    "image": "pilotpallogo",
-    "category": "basicweb",
-    "links": {
-      "view": "https://drive.google.com/drive/folders/1kqQEIc3lV5nWlkO-b-ZTQON64PtATKts?usp=sharing",
-      "code": "https://github.com/jigar-sable/notystack-android"
     }
   }
 ]
